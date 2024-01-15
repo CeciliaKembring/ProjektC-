@@ -12,3 +12,17 @@
 /Users/ADamHolmberg/othello/obj/Debug/net7.0/othello.pdb
 /Users/ADamHolmberg/othello/obj/Debug/net7.0/othello.genruntimeconfig.cache
 /Users/ADamHolmberg/othello/obj/Debug/net7.0/ref/othello.dll
+/Users/ADamHolmberg/ProjektC#/othello/bin/Debug/net7.0/othello
+/Users/ADamHolmberg/ProjektC#/othello/bin/Debug/net7.0/othello.deps.json
+/Users/ADamHolmberg/ProjektC#/othello/bin/Debug/net7.0/othello.runtimeconfig.json
+/Users/ADamHolmberg/ProjektC#/othello/bin/Debug/net7.0/othello.dll
+/Users/ADamHolmberg/ProjektC#/othello/bin/Debug/net7.0/othello.pdb
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.AssemblyInfoInputs.cache
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.AssemblyInfo.cs
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.csproj.CoreCompileInputs.cache
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.dll
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/refint/othello.dll
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.pdb
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/othello.genruntimeconfig.cache
+/Users/ADamHolmberg/ProjektC#/othello/obj/Debug/net7.0/ref/othello.dll
